@@ -1,0 +1,7 @@
+id = "zed-bat-language"
+name = "Batch Language Support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Skylar Coelho <skylar.coelho@1898andco.com>"]
+description = "Batch language support for Zed editor"
+repository = ""
