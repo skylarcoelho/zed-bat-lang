@@ -4,7 +4,6 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Skylar Coelho <skylar.coelho@1898andco.com>"]
 description = "Batch language support for Zed editor"
-repository = ""
 [grammars.batch]
 repository = "https://github.com/SklorGalore/tree-sitter-batch.git"
 rev = "c7c70089f0a1e582409a3dbb1c76db7556caaf18"
