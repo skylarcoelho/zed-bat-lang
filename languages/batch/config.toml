@@ -1,0 +1,4 @@
+name = "MS BATCH"
+grammar = "batch"
+path_suffixes = ["bat", "::"]
+line_comments = ["REM"]
